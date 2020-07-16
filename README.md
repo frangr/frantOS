@@ -46,6 +46,6 @@ g key: toggle a square in the middle of the screen. It's black by default.
 1 to 9 keys: they change the color of the square. Each key corresponds to the VGA palette value of it's number(e.g if you press the 2 key, the color will be the one at position 2 in the VGA palette)
 
 
-![Alt text](https://imgur.com/Z4PX7nU)
+![Alt text](https://i.imgur.com/Z4PX7nU.png)
 
 
